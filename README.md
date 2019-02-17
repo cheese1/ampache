@@ -47,7 +47,7 @@ receives the most testing:
     * hash
     * session
     * json
-	* simplexml (This is not strictly necessary, but may result in a better experience.)
+    * simplexml (This is not strictly necessary, but may result in a better experience.)
     * curl (This is not strictly necessary, but may result in a better experience.)
 
 * MySQL 5.x
